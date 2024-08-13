@@ -8,6 +8,6 @@ public class HelloWorldController {
 
     @GetMapping("/")
     public String helloWorld() {
-        return "Hello World - Curso Docker";
+        return "Hello World - Curso Docker Java/Maven";
     }
 }
