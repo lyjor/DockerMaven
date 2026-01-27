@@ -2,6 +2,8 @@
 
 ## Supported Versions
 
+![imagem inserida para teste de pull request](https://www.archtis.com/wp-content/uploads/2018/12/Info-security-vs-IT-security.png)
+
 Use this section to tell people about which versions of your project are
 currently being supported with security updates.
 
